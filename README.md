@@ -1,2 +1,5 @@
-# ra2581392523024
-Repositório do aluno GIANLUCA LOURENCO ALVES.
+#Portfólio de projetos - Fatec Jacareí
+
+###Aluno: Gianluca Lourenço Alves
+###Curso: Desenvolvimento de Software Multiplataforma
+###Turma: 2° semestre de 2025
